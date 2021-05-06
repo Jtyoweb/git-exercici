@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Edición de texto.txt en la rama master.
-=======
 Texto modificado.
->>>>>>> branch1
