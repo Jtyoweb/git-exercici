@@ -1,0 +1,1 @@
+Edición de texto.txt en la rama master.
